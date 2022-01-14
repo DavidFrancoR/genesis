@@ -1,6 +1,6 @@
 # Oi, tudo bem?
 
-Esse é o repositório de um jogo Gêneses em Javascript com apenas algumas linhas de código! 
+Esse é o repositório de um jogo Gênesis em Javascript com apenas algumas linhas de código! 
 
 ### Os requisitos são:
 
